@@ -1,0 +1,271 @@
+.font{
+    font-family: SeasideResortNF, arial;
+    font-size: 79px; 
+}
+h1.font{
+    font-family: SeasideResortNF, arial;
+}
+@media screen and (min-width: 320px) and (max-width: 767px){
+    h1.font{
+        font-family: 'SeasideResortNF', arial;
+        font-size: 45px;
+    }
+}
+.container__0{
+    font-size: 39px; -webkit-text-stroke: 1px black;
+    font-family: 'Grenze', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@media screen and (min-width: 768px){
+    .row__1 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 39px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .row__1 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 19px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .row__3 span.badge{
+        font-size: 30px;
+    }
+}
+@media screen and (min-width: 768px) {
+    div.column1 h1{
+        font-size: 22px;
+    }
+}
+.column1 h1{
+    font-size: 28px;
+}
+.column2 h1{
+    font-size: 28px;
+}
+
+@media screen and (min-width: 768px) {
+    div.column2 h1{
+        font-size: 20px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .lavel{
+        font-size: 14px;
+    }
+}
+.column3 h1{
+    font-size: 28px;
+}
+@media screen and (min-width: 768px) {
+    div.column3 h1{
+        font-size: 20px;
+    }
+}
+li{
+    font-weight: 901;
+}
+h2{
+    font-size: 55px;
+}
+a.form{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a.form__sub{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.a2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;
+}
+.title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+}
+.inicio{
+    font-size: 31px;
+}
+.index__box0{
+    font-weight: 600;
+    font-size: 20px;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .index__box0 h2{
+        font-size: 45px;
+    }
+}
+.index__boxsub{
+    font-weight: 300;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .index__boxsub{
+        font-weight: 500;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .index__boxsub h2{
+        font-size: 45px;
+    }
+}
+
+.index__boxsub p{
+    font-weight: 600;
+}
+.badge{
+    font-family:initial;
+    font-size: 40px;
+ }
+ div .caja{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 1000;
+    font-size: 20px;
+}
+div.box__1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 901;
+}
+.box__1 p{
+    font-size: 20px;
+}
+.box__2 p{
+    font-size: 20px;
+}
+.submenu{
+    font-size: 24px; display: inline; margin: 40; padding: 10px;
+    font-weight: normal;
+}
+.I p.II{
+    font-size: 33px; 
+}
+.comentario1, 
+.comentario2,
+.comentario3 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px; 
+}
+.comentario4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+}
+.comentario5{
+    font-size: 20px;
+    font-weight: 900;
+}   
+ul {
+	font-size:0;
+ }
+ li {
+	font-size: 24px
+ }
+ nav.contactos{
+    font-size: 25px;
+}
+.contactos a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div .button{
+    font-size: 18px; font-weight: 900;
+    font-family: 'Dancing Script', cursive;
+}
+form{
+   font-weight: 800;
+}
+h3.form{
+    font-family: 'Lobster', cursive;
+    font-size:30px;
+}
+footer{
+    font-family: sans-serif;
+}
+.column1 p{
+    font-size: 15px;
+}
+a.nav-link{
+    font-family:'Zen Dots';
+    font-size: 30px;
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    a.nav-link{
+        font-size: 23px;
+        font-weight:400;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    a.nav-link{
+        font-size: 21px;
+    }
+}
+.navbar-text{
+    font-family:'Zen Dots';
+    font-size: 25px;
+}  
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .navbar-text{
+        font-size: 18px;
+    }
+}
+h5.card-title{
+    font-family: 'Zen Dots';
+    font-size: 25px;
+}
+p.card-text{
+    font-family: 'Zen Dots';
+    font-size: 20px;
+}
+p small.text-muted{
+    font-size: 14px;
+}
+.tarjeta__titulo {
+	font-size: 40px;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .tarjeta__titulo{
+        font-size: 22px;
+    }
+}
+.tarjeta__parrafo {
+	font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .tarjeta__parrafo{
+        font-size: 15px;
+    }
+}
+.tarjeta__parrafo-interno{
+    font-family: fantasy;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .tarjeta__parrafo-interno{
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    h4{
+        font-size: 15px;
+    }
+}
+label{
+    font-family: 'Dancing Script', cursive; font-size: 22px; 
+}
+.ir-arriba {
+	font-size:20px;
+}
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
