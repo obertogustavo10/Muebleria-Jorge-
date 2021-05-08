@@ -51,11 +51,12 @@ h1.font{
     }
 }
 .container__0{
-    background-image: url("/Imagenes/body.jpg");
+    background-image: url(/Imagenes/body.jpg);
     background-size: cover;
     height: 80px; 
     text-align: center;
     margin-top: -15px;
+    border: 2px coral;
 }
 @media screen and (min-width: 768px) {
     .container__0{
@@ -304,7 +305,7 @@ $fondo-claro: true;
 }
 div.box__1{
     display: flex;
-    background-image: url(/Imagenes/caja__1.jpg);
+    background-image: url(/Imagenes/caja1.jpg);
     background-size: cover;
     justify-content: space-evenly;
     /* align-items: center; */
@@ -543,8 +544,8 @@ h3.form{
     text-align: center;
 }
 footer{
+    background-image: url(/Imagenes/footer.jpg);
     background-size: cover;
-    background-image:url(/Imagenes/footer.jpg);
     margin-top: 15px;
 }
 .container-principal{
